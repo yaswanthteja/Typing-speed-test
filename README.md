@@ -1,3 +1,11 @@
+
+
+![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/yaswanthteja?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/yaswanthteja)
+
+
 # Typing-speed-test
 typing speed test is build on the javascript, css and html
 
@@ -6,7 +14,7 @@ You can also erase your incorrect characters or go backward by pressing the back
 
 To create this Typing Speed Test Game in JavaScript. First, you need to create four Files: HTML, CSS & JavaScript Files. After creating these files just paste the following codes into your file. You can also download the source code files of this Typing Speed Test Game from [Github](https://github.com/yaswanthteja/Typing-speed-test)
 
-
+# [LIVE DEMO](https://typing-speed-test-swart.vercel.app/)
 
 First, create an HTML file with the name of index.html and paste the given codes in your HTML file. Remember, you’ve to create a file with .html extension.
 
